@@ -32,16 +32,13 @@ Built with ❤️ using **PHP**, **MySQL**, **Tailwind CSS**, and **Vanilla Java
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-<img src="screenshots/home.png" alt="Home Page" width="700" />
+<img src="assets/home.png" alt="Home Page" width="700" />
 
 ### 🛒 Cart  
-<img src="screenshots/cart.png" alt="Cart Page" width="700" />
+<img src="assets/cart.png" alt="Cart Page" width="700" />
 
 ### 📦 Admin Panel  
-<img src="screenshots/admin.png" alt="Admin Panel" width="700" />
-
-### 🌙 Dark Mode  
-<img src="screenshots/dark-mode.png" alt="Dark Mode" width="700" />
+<img src="assets/admin.png" alt="Admin Panel" width="700" />
 
 ---
 
