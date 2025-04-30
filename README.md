@@ -49,5 +49,38 @@ Built with ❤️ using **PHP**, **MySQL**, **Tailwind CSS**, and **Vanilla Java
 | Tailwind CSS, JS     | PHP    | MySQL    |
 
 ---
+## ⚙️ Installation & Setup
 
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/giorgioSim/suppliesecommerce.git
+
+2.  **Import the database:**
+
+  Open phpMyAdmin (or your MySQL manager)
+
+  Create a new database named student_store
+
+  Import the file:
+  database/student_store.sql
+
+3. **Edit db.php with your credentials:** 
+  $pdo = new PDO('mysql:host=localhost;dbname=student_store;charset=utf8mb4', 'root', '');
+
+4. **Run the project:**
+
+  Start your local server (XAMPP, WAMP, etc.)
+
+  Visit: http://localhost/student-supplies-store/index.php
+
+👤 **Admin Access**
+  Visit http://localhost/student-supplies-store/admin.php
+  or find the Admin link on the footer.
+
+🙌 **Credits**
+Created with ❤️ by Giorgio as a full project from scratch for educational and professional practice.
+
+📜 **License**
+This project is licensed for personal and educational use.
+Feel free to explore, modify, and improve it!
 
