@@ -74,13 +74,13 @@ Built with ❤️ using **PHP**, **MySQL**, **Tailwind CSS**, and **Vanilla Java
 
    - Start your local server (e.g., XAMPP, WAMP)  
    - Visit:  
-     [http://localhost/student-supplies-store/index.php](http://localhost/student-supplies-store/index.php)
+     [http://localhost/student-supplies-store/index.php](http://localhost/suppliesecommerce/index.php)
 
 ---
 
 ## 👤 Admin Access
 
-- Visit: [http://localhost/student-supplies-store/admin.php](http://localhost/student-supplies-store/admin.php)  
+- Visit: [http://localhost/student-supplies-store/admin.php](http://localhost/suppliesecommerce/admin.php)  
 - Or use the **Admin** link in the footer
 
 ---
